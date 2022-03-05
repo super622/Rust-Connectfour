@@ -1,2 +1,2 @@
 # connectfour
-Project for a course on FMI.
+Project for a course in FMI.
